@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../myco-internal"
+		}
+	],
+	"settings": {}
+}
